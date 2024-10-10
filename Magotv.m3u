@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:--1 tvg-id="100" tvg-name="Caracol HD" group-title="Colombia",Canal Caracol
+https://cdn.whystream.pro:8089/hls/LVvAxYV1J7Gw/index.m3u8?st=Xku50Dg08WzWNLKKaSxFWw&e=1728540252
+#EXTINF:--1 tvg-id="100" tvg-name="RCN HD" group-title="Colombia",RCN
+https://cdn.whystream.pro:8089/hls/S5adEfYPB91B/index.m3u8?st=rrafrAwGoBcJYDxzPVKcHw&e=1728541107
+#EXTINF:--1 tvg-id="100" tvg-name="City TV" group-title="Colombia",City TV
+https://cdn.whystream.pro:8089/hls/CqNSan2yeTt8/index.m3u8?st=CxjzYSQrwZT9n1fjx_SH3A&e=1728541470
